@@ -6,7 +6,7 @@ I am an entry-level UI Developer & Freelance Graphic Designer who is passionate 
   <img align="left" src="https://github-readme-stats.vercel.app/api?username=nargayeva&show_icons=true&theme=tokyonight" />
 </a>
 <a href="">
-  <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight&layout=compact" />
+  <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight&layout=compact" />
 </a>
 
 
