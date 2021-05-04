@@ -1,10 +1,9 @@
 # Hi, it's Narmina👋
 
-<p align="center">I am an entry-level UI Developer & Freelance Graphic Designer who is passionate to dig deeper :eyes: </p>
+<p>I am an entry-level UI Developer & Freelance Graphic Designer who is passionate to dig deeper :eyes: </p>
 
 <a href="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)">Linkedin</a>
-
-<br><br>
+<br>
 <a href="">
   <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=nargayeva&show_icons=true&theme=tokyonight" />
 </a>
