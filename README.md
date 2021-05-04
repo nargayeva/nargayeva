@@ -2,9 +2,18 @@
 
 I am an entry-level UI Developer & Freelance Graphic Designer who is passionate to dig deeper :eyes:
 
-<img align="right" src="https://github-readme-stats.vercel.app/api?username=nargayeva&show_icons=true&theme=tokyonight">
+<a href="https://github.com/nargayeva/kiddley">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=nargayeva&repo=kiddley&theme=tokyonight)](https://github.com/nargayeva/kiddley" />
+</a>
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=nargayeva&show_icons=true&theme=tokyonight" />
+</a>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+<a href="">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats" />
+</a>
+
+
 
 <!--
 **nargayeva/nargayeva** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
