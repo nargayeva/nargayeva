@@ -7,10 +7,10 @@
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/nargayeva/)
 <br><br>
 <a href="">
-  <img align="left" height="170" src="https://github-readme-stats.vercel.app/api?username=nargayeva&show_icons=true&theme=tokyonight" />
+  <img align="left" height="172" src="https://github-readme-stats.vercel.app/api?username=nargayeva&show_icons=true&theme=tokyonight" />
 </a>
 <a href="">
-  <img height="170" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight&layout=compact" />
+  <img height="172" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight&layout=compact" />
 </a>
 
 
