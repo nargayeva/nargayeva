@@ -7,7 +7,7 @@ I am an entry-level UI Developer & Freelance Graphic Designer who is passionate 
 </a>
 <br> <br>
 <a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight&layout=compact(https://github.com/anuraghazra/github-readme-stats)" />
+  <img width="460" align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight&layout=compact" />
 </a>
 
 
