@@ -3,10 +3,10 @@
 I am an entry-level UI Developer & Freelance Graphic Designer who is passionate to dig deeper :eyes: 
 
 <a href="">
-  <img align="left" height="200" src="https://github-readme-stats.vercel.app/api?username=nargayeva&show_icons=true&theme=tokyonight" />
+  <img align="left" height="150" src="https://github-readme-stats.vercel.app/api?username=nargayeva&show_icons=true&theme=tokyonight" />
 </a>
 <a href="">
-  <img height="200" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight&layout=compact" />
+  <img height="150" align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nargayeva&theme=tokyonight&layout=compact" />
 </a>
 
 
